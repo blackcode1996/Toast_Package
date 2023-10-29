@@ -1,0 +1,22 @@
+{
+  "name": "toaster",
+  "version": "1.0.0",
+  "description": "It is a simple toast package for javascript",
+  "main": "Toast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackcode1996/Toast_Package.git"
+  },
+  "keywords": [
+    "Toast"
+  ],
+  "author": "Aakash Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackcode1996/Toast_Package/issues"
+  },
+  "homepage": "https://github.com/blackcode1996/Toast_Package#readme"
+}
