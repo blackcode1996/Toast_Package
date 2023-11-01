@@ -1,5 +1,5 @@
 {
-  "name": "toaster",
+  "name": "simpletoasterjs",
   "version": "1.0.0",
   "description": "It is a simple toast package for javascript",
   "main": "Toast.js",
